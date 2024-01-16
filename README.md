@@ -1,4 +1,5 @@
-# Library-Management-Using-SQL
+# RetailSphere-Dynamic-E-commerce-Database-Using-SQL
+
 
 In this online retail database project, we designed a relational database to manage various aspects of an online shopping system. The project involved creating multiple tables to store information about customers, products, orders, payments, reviews, categories, coupons, shopping carts, and shopping cart items. Each table was carefully structured to establish relationships and maintain data integrity.
 
