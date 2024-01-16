@@ -1,5 +1,16 @@
 # RetailSphere-Dynamic-E-commerce-Database-Using-SQL
 
+Tech Stack Used:
+
+Database Management:
+
+SQL Workbench: Employed as the primary tool for database design, querying, and management.
+Database Engine:
+
+MySQL: Utilized as the relational database management system (RDBMS) to store and retrieve data.
+Scripting Language:
+
+SQL (Structured Query Language): Implemented for creating, updating, and querying the database.
 
 In this online retail database project, we designed a relational database to manage various aspects of an online shopping system. The project involved creating multiple tables to store information about customers, products, orders, payments, reviews, categories, coupons, shopping carts, and shopping cart items. Each table was carefully structured to establish relationships and maintain data integrity.
 
