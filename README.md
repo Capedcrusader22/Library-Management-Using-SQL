@@ -1,6 +1,6 @@
 # Library-Management-Using-SQL
 
-Certainly! In this online retail database project, we designed a relational database to manage various aspects of an online shopping system. The project involved creating multiple tables to store information about customers, products, orders, payments, reviews, categories, coupons, shopping carts, and shopping cart items. Each table was carefully structured to establish relationships and maintain data integrity.
+In this online retail database project, we designed a relational database to manage various aspects of an online shopping system. The project involved creating multiple tables to store information about customers, products, orders, payments, reviews, categories, coupons, shopping carts, and shopping cart items. Each table was carefully structured to establish relationships and maintain data integrity.
 
 ### Overview of the Database Schema:
 
@@ -46,8 +46,6 @@ Data Modification:
   - Executed queries to update the stock quantity of products after orders, maintaining accurate inventory information.
 
 This project provides a robust foundation for an online retail system, facilitating customer interactions, order processing, inventory management, and product reviews. The structured database schema ensures data consistency and integrity, while SQL queries enable seamless retrieval and manipulation of information for various business processes.
-
-Certainly! Let's dive deeper into some additional aspects of the online retail database project.
 
 Enhanced Functionality and Flexibility:
 
